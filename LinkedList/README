@@ -1,0 +1,7 @@
+Linked List Kata
+
+This program contains following operations on linked list with TDD (Google Test)
+
+Adding, deleting, inserting, and searching a node
+Reversing the linked list 
+Copying the linked list
